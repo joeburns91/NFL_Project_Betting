@@ -1,0 +1,53 @@
+﻿,stadium,stadium_location,nfl_home_team,wu_station_code,stadium_open,stadium_close,change_date,stadium_type,stadium_address,stadium_weather_station_code,stadium_weather_type,stadium_capacity,stadium_surface,STATION,NAME,LATITUDE,LONGITUDE,ELEVATION,airport_code,airport_distance_mi
+3,Alumni Stadium,"Chestnut Hill, MA",,,,9999,,outdoor,"Perimeter Rd, Chestnut Hill, MA 02467",2467,cold,,Grass,,,,,,KBOS,7.88
+5,Arrowhead Stadium,"Kansas City, MO",Kansas City Chiefs,KMOINDEP104,1972,9999,,outdoor,"1 Arrowhead Dr, Kansas City, MO 64129",64129,cold,"76,416",Grass,US1MOJC0028,"KANSAS CITY 5.1 SE, MO US",39.0692,-94.4871,264.9,KLXT,8.3
+8,Balboa Stadium,"San Diego, CA",,,,9999,,outdoor,"Balboa Stadium, San Diego, CA 92101",92101,warm,,Grass,,,,,,KSAN,2
+9,Bank of America Stadium,"Charlotte, NC",Carolina Panthers,KNCCHARL781,1996,2016,,outdoor,"800 S Mint St, Charlotte, NC 28202",28202,moderate,"73,778",Grass,USW00013881,"CHARLOTTE DOUGLAS AIRPORT, NC US",35.2236,-80.9552,221.9,KCLT,5.33
+10,Bills Stadium,"Orchard Park, NY",Buffalo Bills,KNYBUFFA141,1973,9999,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178,KBUF,11.82
+13,CenturyLink Field,"Seattle, WA",Seattle Seahawks,KWASEATT2375,2002,9999,,outdoor,"800 Occidental Ave S, Seattle, WA 98134",98134,moderate,"67,000",FieldTurf,US1WAKG0038,"SEATTLE 3.5 NW, WA US",47.6523,-122.4095,93,KBFI,5.5
+16,Cotton Bowl,"Dallas, TX",,,,9999,,outdoor,"1300 Robert B Cullum Blvd., Dallas, TX 75210",75210,moderate,,"Grass, Turf (1970-1971)",,,,,,KDAL,6.55
+19,Empower Field at Mile High,"Denver, CO",,,2001,9999,,outdoor,"1701 Bryant St, Denver, CO 80204",80204,cold,"76,125",Grass,USW00023062,"DENVER STAPLETON, CO US",39.7633,-104.8694,1611.2,KDEN,19
+20,Estadio Azteca,"Mexico City, Mexico",,,1966,9999,,outdoor,"Calz. de Tlalpan 3465, Sta. Â_rsula Coapa, Coyoac_Â Ân, 04650 Ciudad de MÂ_xico, D.F., Mexico","Mexico City, MX",warm,,,,,,,,MMMX,10.59
+21,EverBank Field,"Jacksonville, FL",,,1995,9999,,outdoor,"1 Everbank Field Dr, Jacksonville, FL 32202",32202,warm,"67,264",Grass,USW00093837,"JACKSONVILLE NAS, FL US",30.23333,-81.66667,6.1,KCRG,7.33
+22,FedExField,"Landover, MD",,,1997,2016,,outdoor,"1600 Fedex Way, Hyattsville, MD 20785",20785,moderate,"79,000",Grass,USC00186350,"NATIONAL ARBORETUM DC, MD US",38.9133,-76.97,15.2,KCGS,5.95
+23,FirstEnergy Stadium,"Cleveland, OH",Cleveland Browns,KOHCLEVE244,1999,9999,,outdoor,"100 Alfred Lerner Way, Cleveland, OH 44114",44114,cold,"68,000",Grass,USW00014820,"CLEVELAND HOPKINS INTERNATIONAL AIRPORT, OH US",41.4057,-81.852,238,KBKL,1.19
+26,Franklin Field,"Philadelphia, PA",,,1895,9999,,outdoor,"S. 33rd and Spruce St., Philadelphia, PA 19104",19104,cold,,"Grass, Turf (1969-1970)",,,,,,KPHL,6.04
+29,Gillette Stadium,"Foxborough, MA",New England Patriots,KMAWALPO31,2002,9999,,outdoor,"1 Patriot Pl, Foxborough, MA 02035",2035,cold,"68,756",FieldTurf,USC00190860,"BROCKTON, MA US",42.0479,-71.005,24.4,KOWD,8.68
+30,Hard Rock Stadium,"Miami Gardens, FL",Miami Dolphins,KFLMIRAM44,1987,9999,,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",33056,warm,"65,326",Grass,USW00012839,"MIAMI INTERNATIONAL AIRPORT, FL US",25.7905,-80.3163,8.8,KOPF,4.22
+32,Heinz Field,"Pittsburgh, PA",Pittsburgh Steelers,KPANORTH62,2001,9999,,outdoor,"100 Art Rooney Ave, Pittsburgh, PA 15212",15212,cold,"65,500",Grass,USW00094823,"PITTSBURGH ASOS, PA US",40.4846,-80.2144,366.7,KPIT,12
+37,Kansas City Municipal Stadium,"Kansas City, MO",,,,9999,,outdoor,"Brooklyn Ave & E. 22nd St., Kansas City, MO 64127",64127,cold,,Grass,,,,,,KMKC,3
+39,Lambeau Field,"Green Bay, WI",Green Bay Packers,KWIGREEN164,1957,9999,,outdoor,"1265 Lombardi Ave, Green Bay, WI 54304",54304,cold,"80,735",Grass,USW00014898,"GREEN BAY AUSTIN STRAUBEL INTERNATIONAL AIRPORT, WI US",44.4794,-88.1366,209.4,KGRB,3.24
+40,Levi's Stadium,"Santa Clara, CA",San Francisco 49ers,KCASUNNY233,2014,2016,,outdoor,"4900 Marie P. DeBartolo Way, Santa Clara, CA 95054",95054,moderate,"68,500",Grass,USW00023234,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US",37.6197,-122.3647,2.4,KSJC,3.42
+42,Lincoln Financial Field,"Philadelphia, PA",Philadelphia Eagles,KPAPHILA313,2003,9999,,outdoor,"1020 Pattison Ave, Philadelphia, PA 19148",19148,cold,"69,176",Grass,USW00013739,"PHILADELPHIA INTERNATIONAL AIRPORT, PA US",39.87327,-75.22678,3,KPHL,4.44
+43,Los Angeles Memorial Coliseum,"Los Angeles, CA",,,1946,9999,,outdoor,"3911 S Figueroa St, Los Angeles, CA 90037",90037,warm,"93,605",Grass,USW00023174,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",33.938,-118.3888,29.6,KLAX,8.57
+45,LP Stadium,"Nashville, TN",Tennessee Titans,KTNNASHV353,1999,2016,,outdoor,"1 Titans Way, Nashville, TN 37213",37213,moderate,"69,143",Grass,USW00013897,"NASHVILLE INTERNATIONAL AIRPORT, TN US",36.11889,-86.68917,182.9,KBNA,5.85
+47,M&T Bank Stadium,"Baltimore, MD",Baltimore Ravens,KMDBALTI156,1998,9999,,outdoor,"1101 Russell St, Baltimore, MD 21230",21230,moderate,"71,008",FieldTurf,USW00093721,"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",39.1733,-76.684,47.5,KBWI,7.13
+54,MetLife Stadium,"East Rutherford, NJ",New York Giants,KNJWOODR7,2010,9999,,outdoor,"1 MetLife Stadium Dr, East Rutherford, NJ 07073",7073,cold,"82,500",FieldTurf,USW00014734,"NEWARK LIBERTY INTERNATIONAL AIRPORT, NJ US",40.6825,-74.1694,2.1,KEWR,9.73
+58,New Era Field,"Orchard Park, NY",,,1973,9999,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178,KBUF,11.81
+59,Nippert Stadium,"Cincinnati, OH",,,,9999,,outdoor,"2700 Bearcats Way (99 W Corry St.), Cincinnati, OH 45221",45221,cold,,Grass,,,,,,KLUK,5
+60,Nissan Stadium,"Nashville, TN",,,1999,2016,,outdoor,"1 Titans Way, Nashville, TN 37213",37213,moderate,"69,143",Grass,USW00013897,"NASHVILLE INTERNATIONAL AIRPORT, TN US",36.11889,-86.68917,182.9,KBNA,5.85
+62,Oakland Coliseum,"Oakland, CA",,,1966,9999,,outdoor,"7000 Coliseum Way, Oakland, CA 94621",94621,moderate,"53,250",Grass,USW00023230,"OAKLAND METROPOLITAN INTERNATIONAL AIRPORT, CA US",37.72139,-122.22083,1.8,KOAK,2.73
+64,Paul Brown Stadium,"Cincinnati, OH",,,2000,9999,,outdoor,"1 Paul Brown Stadium, Cincinnati, OH 45202",45202,cold,"65,515",FieldTurf,USW00003871,"CINCINNATI WEATHER SERVICE OFFICE CITY, OH US",39.1,-84.51667,193.9,KLUK,4.68
+65,Pitt Stadium,"Pittsburgh, PA",,,,9999,,outdoor,"Terrace Street, Pittsburgh, PA 15260",15260,cold,,Grass,,,,,,KPIT,12
+68,Qualcomm Stadium,"San Diego, CA",San Diego Chargers,KCASANDI5232,1967,9999,,outdoor,"9449 Friars Rd, San Diego, CA 92108",92108,warm,"71,500",Grass,USW00093107,"SAN DIEGO MIRAMAR NAS, CA US",32.86667,-117.13333,145.4,KSAN,5.37
+69,Ralph Wilson Stadium,"Orchard Park, NY",,,1973,9999,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178,KBUF,11.81
+70,Raymond James Stadium,"Tampa, FL",Tampa Bay Buccaneers,KFLTAMPA434,1998,9999,,outdoor,"4201 N Dale Mabry Hwy, Tampa, FL 33607",33607,warm,"65,890",Grass,USW00012842,"TAMPA INTERNATIONAL AIRPORT, FL US",27.96194,-82.5403,5.8,KTPA,1.68
+74,Rice Stadium,"Houston, TX",,,,9999,,outdoor,"2176 University Boulevard, Houston, TX 77251",77251,warm,,Grass,,,,,,KSGR,15.83
+76,Rose Bowl,"Pasadena, CA",,,,9999,,outdoor,,,moderate,,Grass,,,,,,KEMT,9.48
+79,SoFi Stadium,"Inglewood, CA",Los Angeles Rams,KCALOSAN357,2020,9999,20200701,outdoor,"1001 Stadium Dr, Inglewood, CA 90301",,warm,70240,Hellas Matrix Turf,,,,,,KLAX,3.82
+81,Soldier Field,"Chicago, IL",Chicago Bears,KILCHICA779,1926,9999,,outdoor,"1410 Museum Campus Dr, Chicago, IL 60605",60605,cold,"61,500",Grass,USC00111550,"CHICAGO NORTHERLY ISLAND, IL US",41.8558,-87.6094,177.7,KMDW,8.66
+82,Sports Authority Field at Mile High,"Denver, CO",Denver Broncos,KCODENVE959,2001,9999,,outdoor,"1701 Bryant St, Denver, CO 80204",80204,cold,"76,125",Grass,USW00023062,"DENVER STAPLETON, CO US",39.7633,-104.8694,1611.2,KDEN,19.81
+85,StubHub Center,"Los Angeles, CA",Los Angeles Chargers,KCACARSO20,2017,2019,20191222,outdoor,"18400 S Avalon Blvd, Carson, CA 90746",90746,warm,27000,Grass,USW00023174,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",33.938,-118.3888,29.6,KLAX,10.02
+87,Sun Life Stadium,"Miami Gardens, FL",Miami Dolphins,KFLMIRAM44,1987,9999,,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",33056,warm,"65,326",Grass,USW00012839,"MIAMI INTERNATIONAL AIRPORT, FL US",25.7905,-80.3163,8.8,KOPF,4.22
+89,TCF Bank Stadium,"Minneapolis, MN",,,2010,2015,,outdoor,"420 SE 23rd Ave, Minneapolis, MN 55455",55455,cold,,,USW00014922,"MINNEAPOLIS ST PAUL INTERNATIONAL AIRPORT, MN US",44.8831,-93.2289,265.8,KMSP,6.64
+92,Tiger Stadium,"Detroit, MI",,,,9999,,outdoor,"2121 Trumbull Ave., Detroit, MI 48216",48216,cold,,Grass,,,,,,CYQG,7.21
+94,Tulane Stadium,"New Orleans, LA",,,,9999,,outdoor,"Willow St. & Audubon Blvd., New Orleans, LA 70118",70118,warm,,"Grass, Turf (1971-1974)",,,,,,KMSY,9.08
+95,Twickenham Stadium,"London, UK",,,1909,9999,,outdoor,"200 Whitton Road, TW2 7BA, London, UK",,moderate,,,,,,,,EGLL,5
+101,Wembley Stadium,"London, UK",,,2007,9999,,outdoor,"Wembley, London HA9 0WS, United Kingdom","Heathrow, UK",moderate,,,,,,,,EGLL,9.62
+103,Yale Bowl,"New Haven, CT",,,,9999,,outdoor,"276 Derby Ave, West Haven, CT 06516",6516,cold,,Grass,,,,,,KHVN,4.71
+104,Yankee Stadium,"Bronx, NY",,,,9999,,outdoor,,,cold,,,,,,,,KLGA,4.5
+107,Highmark Stadium,"Orchard Park, NY",,,1973,9999,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178,KBUF,11.81
+108,Oakland Coliseum,"Oakland, CA",,,1966,9999,,outdoor,"7000 Coliseum Way, Oakland, CA 94621",94621,moderate,"53,250",Grass,USW00023230,"OAKLAND METROPOLITAN INTERNATIONAL AIRPORT, CA US",37.72139,-122.22083,1.8,KOAK,2.73
+109,Snapdragon Stadium,"San Diego, CA",San Diego Chargers,KCASANDI5232,1967,9999,,outdoor,"9449 Friars Rd, San Diego, CA 92108",92108,warm,"71,500",Grass,USW00093107,"SAN DIEGO MIRAMAR NAS, CA US",32.86667,-117.13333,145.4,KSAN,5.37
+110,Aztec Stadium,"San Diego, CA",San Diego Chargers,KCASANDI5232,1967,9999,,outdoor,"9449 Friars Rd, San Diego, CA 92108",92108,warm,"71,500",Grass,USW00093107,"SAN DIEGO MIRAMAR NAS, CA US",32.86667,-117.13333,145.4,KSAN,5.37
+111,San Diego Stadium,"San Diego, CA",San Diego Chargers,KCASANDI5232,1967,9999,,outdoor,"9449 Friars Rd, San Diego, CA 92108",92108,warm,"71,500",Grass,USW00093107,"SAN DIEGO MIRAMAR NAS, CA US",32.86667,-117.13333,145.4,KSAN,5.37
